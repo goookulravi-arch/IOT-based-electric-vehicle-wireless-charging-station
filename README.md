@@ -1,0 +1,2 @@
+# IOT-based-electric-vehicle-wireless-charging-station
+This project presents the design and implementation of an IoT-enabled wireless charging system for electric vehicles (EVs). The system uses inductive power transfer (IPT) technology to charge EV batteries without physical connectors, ensuring safety, convenience, and durability. An IoT module is integrated to monitor the charging process remotely
